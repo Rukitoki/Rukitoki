@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, bem-vindo ao meu perfil no GitHub 😉
+## Me chamo Vinicius, mas meu nick é "Rukitoki"👋
 
-<!--
-**Rukitoki/Rukitoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Graduado em Engenharia da Computação
+- Atualmente trabalho na área de monitoração de redes
+- Estou estudando diversas coisas, mas com o foco em redes e segurança
+Mas porque você tem um github então?
+Uso o Git mais para projetos pequenos, com programação, ainda não tenho uma linguagem em especifica que gostaria de me aprofundar, então to testando várias kkkkkk
 
-Here are some ideas to get you started:
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos:
+<div>
+<a href="https://www.linkedin.com/in/vinicius-dameto-2916a8219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/Rukitoki">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
